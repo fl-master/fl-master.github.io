@@ -1,0 +1,127 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: red; }
+
+p,
+footer,
+.s_about li {
+  color: #999; }
+
+.color_element {
+  color: red; }
+
+.color_bg {
+  background-color: red; }
+
+.color_border {
+  border-color: red; }
+
+.bg_dark {
+  background-color: #222;
+  color: #999; }
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+  .bg_dark a {
+    color: #fff; }
+
+.bg_lite {
+  background-color: #FAFAFA; }
+
+svg path {
+  fill: #222; }
+
+.toggle_mnu {
+  background-color: #fff; }
+
+.top_mnu a:hover {
+  color: red;
+  background-color: rgba(255, 255, 255, 0.05); }
+
+.top_mnu a {
+  letter-spacing: 3px; }
+
+.top_name p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.top_name h1 {
+  letter-spacing: 5px; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+footer {
+  letter-spacing: 2px; }
+
+h3 {
+  letter-spacing: 3px;
+  color: #999; }
+
+.s_about p:nth-child(even) {
+  color: red; }
+
+.h2_name {
+  letter-spacing: 2px; }
+
+.benefit h3 {
+  color: #222;
+  letter-spacing: 1px; }
+
+.icon_item {
+  color: red; }
+
+.s_portfolio li {
+  letter-spacing: 1px; }
+
+.s_portfolio li.active {
+  color: #fff;
+  border-bottom: 1px solid red; }
+
+.portfolio_item .port_item_container a {
+  border-color: red;
+  color: red; }
+
+.contacts_icon {
+  color: red; }
+
+.text-danger {
+  color: red; }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid red; }
+
+form input,
+form textarea {
+  letter-spacing: 2px; }
+
+form button {
+  background-color: red;
+  letter-spacing: 2px; }
+
+form .form-group {
+  letter-spacing: 2px;
+  color: #999; }
+
+.services_item h3 {
+  color: #999;
+  letter-spacing: 3px; }
+
+.services_item p {
+  color: #999; }
+
+.services_item a {
+  border: 1px solid red; }
+
+.head_timelapse h4 {
+  background-color: #999;
+  color: #FAFAFA;
+  letter-spacing: 3px; }
+
+.number-block {
+  background-color: red; }
